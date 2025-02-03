@@ -1,0 +1,4 @@
+Temperatura minima promedio: 2.4°C
+Temperatura maxima promedio: 13.8°C
+Dia mas frio: 1 con 2°C
+Dia mas calido: 2 con 3°C

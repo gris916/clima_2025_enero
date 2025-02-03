@@ -1,0 +1,36 @@
+clima de riobamba - enero 2025
+
+dia   semana        temperatura max / min  clima
+------------------------------------------------
+1     miercoles     13° / 3°  nublado
+2     jueves        14° / 3°  llovizna
+3     viernes       14° / 2°  lluvia ligera
+4     sabado        13° / 3°  tormentas aisladas
+5     domingo       14° / 2°  tormentas aisladas
+6     lunes         13° / 2°  lluvia ligera
+7     martes        13° / 2°  lluvia ligera
+8     miercoles     13° / 3°  lluvia ligera
+9     jueves        13° / 3°  lluvia ligera
+10    viernes       16° / 1°  lluvia ligera
+11    sabado        14° / 3°  lluvia ligera
+12    domingo       14° / 2°  nublado
+13    lunes        14° / 3°   lluvia ligera
+14    martes        14° / 3°  tormentas aisladas
+15    miercoles     14° / 3°  nublado
+16    jueves        14° / 2°  lluvia ligera
+17    viernes       14° / 3°  tormentas aisladas
+18    sabado        13° / 1°  lluvia ligera
+19    domingo       14° / 3°  tormentas aisladas
+20    lunes         12° / 2°  llovizna
+21    martes        13° / 2°  luvia ligera
+22    miercoles     13° / 3°  llovizna
+23    jueves        13° / 3°  llovizna
+24    viernes       15° / 3°  lluvia ligera
+25    sabado        13° / 3°  lluvia ligera
+26    domingo       15° / 2°  tormentas aisladas
+27    lunes         16° / 3°  lluvia ligera
+28    martes        16° / 3°  lluvia ligera
+29    miercoles     16° / 3°  lluvia ligera
+30    jueves        16° / 2°  llovizna
+31    viernes       16° / 2°  lluvia ligera
+
